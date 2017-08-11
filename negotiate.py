@@ -23,4 +23,4 @@ if salary <= 100000:
         else:
             print('Sorry, but I pass.')
 else:
-  print('When can I start? ')
+  print('When can I start?')
